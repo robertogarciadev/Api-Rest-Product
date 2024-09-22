@@ -1,0 +1,3 @@
+--INSERT INTO products (name, price) VALUES ("Recogedor", 13.4);
+--INSERT INTO products (name, price) VALUES ("Aspiradora", 56.9);
+--INSERT INTO products (name, price) VALUES ("Cubo", 6.7);
